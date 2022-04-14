@@ -37,7 +37,7 @@
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100%;
   --bs-bg-opacity: 0.8;

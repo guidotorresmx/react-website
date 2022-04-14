@@ -50,7 +50,7 @@ function Footer() {
               <a href="https://github.com/guidotorresmx/eleventy-website">
                 @guidotorresmx/eleventy-website.{" "}
               </a>
-              This website is built with Eleventy, Parcel, Bootstrap, Scss and
+              This website is built with React, Bootstrap, and TypeScript.
               Pug.
             </p>
           </span>
