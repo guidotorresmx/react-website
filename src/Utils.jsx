@@ -21,7 +21,6 @@ export default function GalleryUtils(props) {
       lightbox.destroy();
     });
     return () => {
-      debugger;
       lightbox.destroy();
       lightbox = null;
     };

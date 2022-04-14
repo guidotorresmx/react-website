@@ -28,13 +28,13 @@ function Nav() {
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
           <li className="nav-item">
-            <Link to="./react-website/">Home</Link>
+            <Link to="/">Home</Link>
           </li>
           <li className="nav-item">
-            <Link to="./react-website/gallery">Gallery</Link>
+            <Link to="/gallery">Gallery</Link>
           </li>
           <li className="nav-item">
-            <Link to="./react-website/about">About</Link>
+            <Link to="/about">About</Link>
           </li>
         </ul>
         <form className="d-flex">
