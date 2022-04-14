@@ -12,7 +12,10 @@ function About() {
       <div className="container is-max-widescreen px-2">
         <div className="columns is-marginless">
           <aside className="column is-4 is-flex is-flex-direction-column is-justify-content-center">
-            <img className="js-img-fadeIn center-img" src="./about.jpg" />
+            <img
+              className="js-img-fadeIn center-img"
+              src="./react-website/about.jpg"
+            />
           </aside>
           <section className="column is-8 is-flex is-flex-direction-column is-justify-content-center">
             <h2 className="about-title">About</h2>
